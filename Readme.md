@@ -1,1 +1,1 @@
-Olá, me chamo Franciele e este é um projeto para pratica de HTML e CSS onde farei uma calculadora. Utilizarei exemplo do Fernando Leonid desse video https://www.youtube.com/watch?v=s93i9A_neAI
+Olá, me chamo Franciele e este é um projeto para pratica de HTML e CSS onde farei o visual de uma calculadora. Utilizarei exemplo do Fernando Leonid desse video https://www.youtube.com/watch?v=s93i9A_neAI
